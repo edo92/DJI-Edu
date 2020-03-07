@@ -1,6 +1,7 @@
-# DJI-Edu
+const drone = require('./index');
 
-### Examples
+drone.control.connect(); // Connect to drone
+
 // Control Commands
 drone.control.connect()
 drone.control.takeOff()

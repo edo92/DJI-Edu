@@ -1,0 +1,8 @@
+node_modules/
+# Some garbo folders
+app/
+build/
+.cache/
+.DS_store
+yarn.lock
+package-lock.json
